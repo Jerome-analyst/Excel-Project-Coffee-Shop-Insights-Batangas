@@ -37,7 +37,7 @@ In this project, web scraping (or API calls) is used to:
 
 ##  Dashboard Overview
 
-![Coffee Shop Dashboard](https://github.com/Jerome-analyst/Web-Scraping-Case-Study-Mapping-Coffee-Shops-in-Batangas-City/blob/main/Dashboard%20file.png)
+![Coffee Shop Dashboard](https://github.com/Jerome-analyst/Web-Scraping-Case-Study-Mapping-Coffee-Shops-in-Batangas-City/blob/main/Dashboard%20File.png)
 
 This dashboard provides a clear and insightful summary of the coffee shop data collected from Batangas City. Created using Excel, it visualizes key metrics such as:
 

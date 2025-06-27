@@ -6,13 +6,12 @@
 > **Have you ever wondered how many coffee shops are in your area?**  
 > This project explores that question by scraping data from Google Maps to reveal coffee shop trends in Batangas City. By collecting real-time data such as ratings, reviews, and service availability, this case study uncovers which cafés are most popular and why. It's a practical demonstration of how web scraping and data visualization can turn curiosity into insights.
 
----
 
 ## Project Overview
 
 This project scrapes real-time data from Google Maps using Python and the Google Places API to gather insights about coffee shops in **Batangas City, Philippines**. The extracted data includes business names, ratings, and the number of reviews. It is then cleaned, organized in Excel, and visualized to reveal patterns and trends in local café popularity.
 
----
+
 ![Web Scraping Illustration](https://github.com/Jerome-analyst/Web-Scraping-Case-Study-Mapping-Coffee-Shops-in-Batangas-City/blob/main/What%20is%20web%20scraping%20.png)
 
 ## What is Web Scraping?
@@ -26,7 +25,7 @@ In this project, web scraping (or API calls) is used to:
 
 > ⚠Always ensure your scraping follows website terms of service and uses public or permitted APIs when available.
 
----
+
 
 ## Objectives
 
@@ -49,9 +48,6 @@ This dashboard provides a clear and insightful summary of the coffee shop data c
 
 The dashboard effectively transforms raw data into visual insights ideal for local business research, competitive analysis, or data storytelling.
 
-> 📌 This dashboard image is saved in `/visuals/dashboard.png`
-
----
 
 ## 🛠️ Tools and Technologies
 
@@ -60,7 +56,6 @@ The dashboard effectively transforms raw data into visual insights ideal for loc
 - `Excel` 
 - `GitHub` 
 
----
 
 ## Data Fields Collected
 
@@ -79,7 +74,7 @@ Each entry includes:
 - Creating visual insights from simple datasets
 - Showcasing local trends with geographic data
 
----
+
 
 ## Final Thoughts
 

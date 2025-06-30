@@ -1,7 +1,7 @@
 
 # Web-Scraping-Case-Study-Mapping-Coffee-Shops-in-Batangas-City
 
-# ☕ Batangas City Coffee Shop Web Scraping and Analysis
+# Batangas City Coffee Shop Web Scraping and Analysis
 
 > **Have you ever wondered how many coffee shops are in your area?**  
 > This project explores that question by scraping data from Google Maps to reveal coffee shop trends in Batangas City. By collecting real-time data such as ratings, reviews, and service availability, this case study uncovers which cafés are most popular and why. It's a practical demonstration of how web scraping and data visualization can turn curiosity into insights.

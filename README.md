@@ -7,7 +7,7 @@
 
 ## Project Overview
 
-This project scrapes real-time data from Google Maps using Python and the Google Places API to gather insights about coffee shops in **Batangas City, Philippines**. The extracted data includes business names, ratings, and the number of reviews. It is then cleaned, organized in Excel, and visualized to reveal patterns and trends in local café popularity.
+This project scrapes real-time data from Google Maps using Instant Scraper and the Google Places API to gather insights about coffee shops in **Batangas City, Philippines**. The extracted data includes business names, ratings, and the number of reviews. It is then cleaned, organized in Excel, and visualized to reveal patterns and trends in local café popularity.
 
 
 ![Web Scraping Illustration](https://github.com/Jerome-analyst/Web-Scraping-Case-Study-Mapping-Coffee-Shops-in-Batangas-City/blob/main/What%20is%20web%20scraping%20.png)

@@ -52,8 +52,7 @@ The dashboard effectively transforms raw data into visual insights ideal for loc
 
 - `Google Maps Place`
 - `Instant Scraper Chrome Extension` 
-- `Excel` 
-- `GitHub` 
+- `Excel`  
 
 
 ## Data Fields Collected

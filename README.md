@@ -59,9 +59,8 @@ Each entry includes:
 - Coffee Shop Name
 - Google Rating
 - Number of Reviews
-- (Optional: Address, Location Coordinates)
 - Closing Time
-- Dine-in	Takeout	Delivery
+- Dine-in	& Takeout	Delivery
  
 ## What I Learned
 
